@@ -1,4 +1,6 @@
 
+![Fsfe-Ngio-logo](media/logo-fsfe-ngio.png)
+
 ## About
 
 This website stores the main FSFE documentation for NGIO projects. You can know more about FSFE's envolvement in NGIO [here](https://fsfe.org/activities/ftf/ngi0.en.html)
