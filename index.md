@@ -1,5 +1,5 @@
 
-![Fsfe-Ngio-logo](media/logo-fsfe-ngio.png)
+![Fsfe-Ngio-logo](/media/logo-fsfe-ngio.png)
 
 ## About
 
