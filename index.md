@@ -1,5 +1,4 @@
 
-![fsfe logo](/media/fsfe-logo.png)     ![ngio logo](/media/ngio-logo.jpg)
 
 # FSFE's documentation website for NGI0
 
