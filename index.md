@@ -39,7 +39,7 @@ With our FAQ you have answers for your most frequent questions about FOSS licens
 
 REUSE makes FOSS licensing easy to everybody. Learn more how your project can profit from that.
 
-[![reuse](/media/images/reuse-logo.png)](https://github.com/lucaslasota/testngio/blob/maste/media/pdf/reuse.pdf)
+[![reuse](/media/images/reuse-logo.png)](https://github.com/lucaslasota/testngio/blob/master/media/pdf/reuse.pdf)
 
 ---
 
@@ -55,7 +55,7 @@ Questions about your involvement with FSFE in the course of your work with NGIO?
 
 Learn more about the most common licenses and how they interconect within your project. 
 
-[![license-matrix](/media/images/matrix-logo.png)](https://github.com/lucaslasota/testngio/blob/maste/media/pdf/licenses-matrix.pdf)
+[![license-matrix](/media/images/matrix-logo.png)](https://github.com/lucaslasota/testngio/blob/master/media/pdf/licenses-matrix.pdf)
 
 ---
 
