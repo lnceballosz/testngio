@@ -17,9 +17,8 @@ If you have questions, feel always free to contact [Gabriel](https://fsfe.org/ab
 
 These best practices are an easy-do-implement summary of the legal to-dos for your project.
 
-<a href="https://github.com/lucaslasota/testngio/media/pdf/best-practices.pdf" target="_blank">[![best practices](/media/images/best-logo.png)]</a>
+<a href="https://github.com/lucaslasota/testngio/blob/master/media/pdf/best-practices.pdf" target="_blank">![best practices](/media/images/best-logo.png)</a>
 
-<embed src="https://sumanbogati.github.io/dirname/sample.pdf" type="application/pdf" />
 
 ### FAQs and Background Information
 
