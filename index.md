@@ -5,13 +5,15 @@ The FSFE is a partner organisation of [NGI Zero (NGI0)](https://www.ngi.eu/about
 
 The FSFE has produced for NGI0 participants a series of documents and FAQs that explain Free Software legal and licensing issues, and how to manage these issues within a software project. Feel free to use the information of this website as you want. All content is licensed under the [CC BY-SA 4](https://creativecommons.org/licenses/by/4.0/).
 
-## How to use it?
-
-The documents below will guide and help you with the most important issues regarding FOSS licensing. Just click on each document below to read and download. If you spot a bug or something worng, please raise an issue in our GitHub repository.
-
 ## Contact
 
 If you have questions about your NGI0 project, feel always free to contact [Gabriel](https://fsfe.org/about/ku/ku.en.html) and [Lucas](https://fsfe.org/about/lasota/lasota.en.html).
+
+---
+
+## How to use it?
+
+The documents below will guide and help you with the most important issues regarding FOSS licensing. Just click on each document below to read and download. If you spot a bug or something worng, please raise an issue in our GitHub repository.
 
 ### Best practices for Software Licensing
 
