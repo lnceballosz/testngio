@@ -17,13 +17,13 @@ If you have questions, feel always free to contact [Gabriel](https://fsfe.org/ab
 
 These best practices are an easy-do-implement summary of the legal to-dos for your project.
 
-[![best practices](/media/images/best-logo.png)(https://github.com/lucaslasota/testngio/tree/master/media/pdf/best-practices.pdf)
+[![best practices](/media/images/best-logo.png)() <a href="github.com/lucaslasota/testngio/tree/master/media/pdf/best-practices.pdf" target="_blank">PDF.</a>
 
 ### FAQs and Background Information
 
 With our FAQ you have answers for your most frequent questions about FOSS licensing.
 
-[![faq](/media/images/faq-logo.png)](/media/pdf/faq.pdf)
+[![faq](/media/images/faq-logo.png)](https://download.fsfe.org/NGI0/FSFE%20-%206%20-%20FAQs%20and%20Background%20Information.pdf)
 
 ### REUSE Initiative Tutorial
 
