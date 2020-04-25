@@ -1,10 +1,9 @@
 
 ## About
 
-The FSFE is a partner organisation of [NGI Zero (NGI0)](https://www.ngi.eu/about/ngi-zero/), a coalition of thirteen not-for-profit organisations from across Europe. Funded by the European Commmission, NGI0 provides grants to individual researchers and developers, as well as teams that wish to work on new ideas and technologies that contribute to the establishment of the [Next Generation Internet](https://www.ngi.eu/vision/). You can know more about FSFE's envolvement in NGI0 [here](https://fsfe.org/activities/ftf/ngi0.en.html).
+The FSFE is a partner organisation of [NGI Zero (NGI0)](https://www.ngi.eu/about/ngi-zero/), a coalition organisations, funded by the European Commmission, to advice individuals and projects that wish to work on new ideas and technologies that contribute to the establishment of the [Next Generation Internet](https://www.ngi.eu/vision/). You can know more about FSFE's envolvement in NGI0 [here](https://fsfe.org/activities/ftf/ngi0.en.html).
 
-The FSFE has produced for NGI0 participants a series of documents and FAQs that explain Free Software legal and licensing issues, and how to manage these issues within a software project. This website stores the main FSFE documentation. Feel free to use the information as you want. All content is licensed under the [CC BY-SA 4](https://fsfe.org/about/ku/ku.en.html).
-
+The FSFE has produced for NGI0 participants a series of documents and FAQs that explain Free Software legal and licensing issues, and how to manage these issues within a software project. Feel free to use the information of this website as you want. All content is licensed under the [CC BY-SA 4](https://fsfe.org/about/ku/ku.en.html).
 
 ## How to use it?
 
@@ -18,7 +17,7 @@ If you have questions, feel always free to contact [Gabriel](https://fsfe.org/ab
 
 These best practices are an easy-do-implement summary of the legal to-dos for your project.
 
-[![best practices](/media/images/best-logo.png)](/media/pdf/best-practices.pdf)
+[![best practices](/media/images/best-logo.png)]{{ site.baseurl }}{{ /media/pdf/best-practices.pdf }}
 
 ### FAQs and Background Information
 
