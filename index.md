@@ -1,43 +1,49 @@
 
 ## About
 
-This website stores the main FSFE documentation for NGIO projects. You can know more about FSFE's envolvement in NGIO [here](https://fsfe.org/activities/ftf/ngi0.en.html)
+The FSFE is a partner organisation of [NGI Zero (NGI0)](https://www.ngi.eu/about/ngi-zero/), a coalition of thirteen not-for-profit organisations from across Europe. Funded by the European Commmission, NGI0 provides grants to individual researchers and developers, as well as teams that wish to work on new ideas and technologies that contribute to the establishment of the [Next Generation Internet](https://www.ngi.eu/vision/). You can know more about FSFE's envolvement in NGI0 [here](https://fsfe.org/activities/ftf/ngi0.en.html).
 
-## Links to download
+The FSFE has produced for NGI0 participants a series of documents and FAQs that explain Free Software legal and licensing issues, and how to manage these issues within a software project. This website stores the main FSFE documentation. Feel free to use the information as you want. All content is licensed under the [CC BY-SA 4](https://fsfe.org/about/ku/ku.en.html).
+
+
+## How to use it?
 
 The documents below will guide and help you with the most important issues regarding FOSS licensing. Just click on each document below to download.
 
-If you have questions, feel always free to contact [Gabriel](https://fsfe.org/about/ku/ku.en.html) and [Lucas](https://fsfe.org/about/lasota/lasota.en.html).
+## Contact
 
+If you have questions, feel always free to contact [Gabriel](https://fsfe.org/about/ku/ku.en.html) and [Lucas](https://fsfe.org/about/lasota/lasota.en.html).
 
 ### Best practices for Software Licensing
 
-The best practices is a easy-do-implement summary for legal to-dos.
+These best practices are an easy-do-implement summary of the legal to-dos for your project.
 
-[![best practices](/media/best-logo.png)](https://download.fsfe.org/NGI0/FSFE%20-%201%20-%20Best%20Practices%20for%20Software%20Licensing.pdf)
+[![best practices](/media/images/best-logo.png)](/media/pdf/best-practices.pdf)
 
 ### FAQs and Background Information
 
 With our FAQ you have answers for your most frequent questions about FOSS licensing.
 
-[![faq](/media/faq-logo.png)](https://download.fsfe.org/NGI0/FSFE%20-%206%20-%20FAQs%20and%20Background%20Information.pdf)
+[![faq](/media/images/faq-logo.png)](/media/pdf/faq.pdf)
 
 ### REUSE Initiative Tutorial
 
 REUSE makes FOSS licensing easy to everybody. Check how your project can profit from that.
 
-[![reuse](/media/reuse-logo.png)](https://download.fsfe.org/NGI0/FSFE%20-%203%20-%20REUSE%20Initiative%20Tutorial.pdf)
+[![reuse](/media/images/reuse-logo.png)](/media/pdf/reuse.pdf)
 
 ### Compliance Workflow
 
 Questions about your involvement with FSFE in the course of your work with NGIO? Check our compliance workflow.
 
-[![workflow](/media/workflow-logo.png)](https://download.fsfe.org/NGI0/FSFE%20-%202%20-%20Compliance%20Workflow.pdf)
+[![workflow](/media/images/workflow-logo.png)](/media/pdf/compliance-workflow.pdf)
 
 ### FOSS Linceses and Compatibility Matrix
 
 Check the most important licenses and how they interconect. 
 
-[![matrix](/media/matrix-logo.png)](https://download.fsfe.org/NGI0/FSFE%20-%205%20-%20FOSS%20Licenses%20and%20Compatibility%20Matrix.pdf)
+[![matrix](/media/images/matrix-logo.png)](/media/pdf/licenses-matrix.pdf)
+
+
 
 
