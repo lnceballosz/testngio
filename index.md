@@ -36,7 +36,7 @@ REUSE makes FOSS licensing easy to everybody. Check how your project can profit 
 
 Questions about your involvement with FSFE in the course of your work with NGIO? Check our compliance workflow.
 
-[![workflow](/media/images/workflow-logo.png)](/media/pdf/compliance-workflow.pdf)
+[![workflow](/media/images/workflow-logo.png)](https://github.com/lucaslasota/testngio/blob/master/media/pdf/compliance-workflow.pdf)
 
 ### FOSS Linceses and Compatibility Matrix
 
