@@ -15,7 +15,9 @@ If you have questions about your NGI0 project, feel always free to contact [Gabr
 
 ## How to use it?
 
-The documents below will guide and help you with the most important issues regarding FOSS licensing. Just click on each document below to read and download. If you spot a bug or something worng, please raise an issue in our GitHub repository.
+The documents below will guide and help you with the most important issues regarding FOSS licensing. Just click on each document below to read and download. You can also clone the repository to always have the latest version of the documents.
+
+If you spot a bug or something worng, please raise an issue in our GitHub repository.
 
 ---
 
