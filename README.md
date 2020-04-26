@@ -20,4 +20,4 @@ FSFE team for NGI0.
 
 **Acknowledgement**
 
-NGI0 & FSFE Documentation is built with GitHub pages using the ['Minimal' theme](https://pages-themes.github.io/minimal/) under the [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
+FSFE Documentation for NGI0 is built with GitHub pages using the ['Minimal' theme](https://pages-themes.github.io/minimal/) under the [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
